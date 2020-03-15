@@ -25,8 +25,5 @@ connection.connect((err) => {
     log("connected as id " + connection.threadId);
 });
 
-connection.query(`SELECT * FROM list`, (err, results) => {
-    log(results);
-});
 
 module.exports = connection;

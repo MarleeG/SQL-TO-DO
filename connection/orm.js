@@ -11,7 +11,7 @@ var orm ={
                 throw err;
                 return;
             }
-            cb(results)
+            cb(results);
         });
     },
     // create

@@ -1,0 +1,10 @@
+CREATE DATABASE IF NOT EXISTS SQL_TO_DO;
+
+USE SQL_TO_DO;
+
+CREATE TABLE list(
+    id int NOT NULL AUTO_INCREMENT,
+    task varchar(255) NOT NULL,
+    complete BOOL DEFAULT false,
+    PRIMARY KEY(id)
+);

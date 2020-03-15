@@ -1,13 +1,6 @@
 const log = console.log;
 var connection = require('./connection');
 
-// function printQuestionMarks(){
-//     let arr = [];
-
-
-
-//     return arr.toString();
-// }
 
 var orm ={
     // read

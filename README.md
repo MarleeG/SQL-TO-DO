@@ -1,4 +1,3 @@
-# UNDER CONSTRUCTION
 # SQL-TO-DO
 
 ## Built With

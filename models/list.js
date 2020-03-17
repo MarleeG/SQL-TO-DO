@@ -24,4 +24,6 @@ var list = {
     }
 }
 
-module.exports = orm;
+
+
+module.exports = list;

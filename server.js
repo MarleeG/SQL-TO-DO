@@ -18,10 +18,6 @@ app.use(express.urlencoded({ extended: true }));
 app.use(express.json());
 app.use(routes);
 
-
-
-
-
 app.listen(PORT, (err) => {
     if(err){
         return err;

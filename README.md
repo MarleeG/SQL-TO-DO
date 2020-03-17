@@ -9,6 +9,7 @@
 * [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 * [Bootstrap](https://getbootstrap.com/)
 * [JQuery](https://jquery.com/)
+* [Semantic UI -Icons](https://semantic-ui.com/elements/icon.html)
 
 ## Deployed App
-COMING SOON
+* [SQL-TO-DO](https://sqltodo-mg.herokuapp.com/)

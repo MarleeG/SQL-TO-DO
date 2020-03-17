@@ -18,7 +18,6 @@ $(() => {
         });
     });
 
-
     // THIS DELETES A COMPLETED TASK FROM THE DB
     $('i.delete-task-icon').click(event => {
         let id = event.target.id;

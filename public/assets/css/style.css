@@ -17,6 +17,17 @@ body{
 }
 
 
+@media only screen and (min-width: 375px){
+    .wrapper{
+       top: 105%; 
+       width: 100%;
+    }
+
+    .completed-task{
+        width: 60%;
+    }
+}
+
 
 @media only screen and (min-width: 388px){
     .wrapper{

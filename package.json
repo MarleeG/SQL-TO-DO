@@ -4,7 +4,7 @@
   "description": "## Built With * [MySQL](https://www.w3schools.com/nodejs/nodejs_mysql.asp) * [Handlebars](https://handlebarsjs.com/) * [CSS](https://www.w3schools.com/css/default.asp) * [Express](https://expressjs.com/) * [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) * [Bootstrap](https://getbootstrap.com/) * [JQuery](https://jquery.com/)",
   "main": "server.js",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "express-handlebars": "^3.1.0",
     "minimist": "^1.2.5",
     "mysql": "^2.18.1",
